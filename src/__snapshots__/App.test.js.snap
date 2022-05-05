@@ -1,0 +1,188 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  <h1>
+    React-a-Mole!
+  </h1>
+  <h2>
+    a change for testing!
+  </h2>
+  0
+  <div>
+    <div
+      style={
+        Object {
+          "display": "inline-block",
+          "width": "30vw",
+        }
+      }
+    >
+      <div>
+        <img
+          src="molehill.png"
+          style={
+            Object {
+              "width": "30vw",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      style={
+        Object {
+          "display": "inline-block",
+          "width": "30vw",
+        }
+      }
+    >
+      <div>
+        <img
+          src="molehill.png"
+          style={
+            Object {
+              "width": "30vw",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      style={
+        Object {
+          "display": "inline-block",
+          "width": "30vw",
+        }
+      }
+    >
+      <div>
+        <img
+          src="molehill.png"
+          style={
+            Object {
+              "width": "30vw",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      style={
+        Object {
+          "display": "inline-block",
+          "width": "30vw",
+        }
+      }
+    >
+      <div>
+        <img
+          src="molehill.png"
+          style={
+            Object {
+              "width": "30vw",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      style={
+        Object {
+          "display": "inline-block",
+          "width": "30vw",
+        }
+      }
+    >
+      <div>
+        <img
+          src="molehill.png"
+          style={
+            Object {
+              "width": "30vw",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      style={
+        Object {
+          "display": "inline-block",
+          "width": "30vw",
+        }
+      }
+    >
+      <div>
+        <img
+          src="molehill.png"
+          style={
+            Object {
+              "width": "30vw",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      style={
+        Object {
+          "display": "inline-block",
+          "width": "30vw",
+        }
+      }
+    >
+      <div>
+        <img
+          src="molehill.png"
+          style={
+            Object {
+              "width": "30vw",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      style={
+        Object {
+          "display": "inline-block",
+          "width": "30vw",
+        }
+      }
+    >
+      <div>
+        <img
+          src="molehill.png"
+          style={
+            Object {
+              "width": "30vw",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      style={
+        Object {
+          "display": "inline-block",
+          "width": "30vw",
+        }
+      }
+    >
+      <div>
+        <img
+          src="molehill.png"
+          style={
+            Object {
+              "width": "30vw",
+            }
+          }
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
